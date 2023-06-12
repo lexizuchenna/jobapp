@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsearchapp",
+    "slug": "jobsearchapp",
+    "extra": {
+      "eas": {
+        "projectId": "ba3bf0a8-92cf-4569-8eee-9771bd72270f"
+      }
+    },
+    "android": {
+      "package": "com.lextechspec.jobsearchapp"
+    }
+  }
+}
